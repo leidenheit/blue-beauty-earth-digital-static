@@ -14,8 +14,8 @@
 # Use the plain store address without "?tid=..." - that parameter is Garmin's
 # tracking of where a visit came from, not part of the page.
 #
-# Empty until the face has a store entry: the landing page says "coming soon".
-store_url: ""
+# The release entry's page (uploaded 2026-10-23; before that empty: the landing page said "coming soon").
+store_url: "https://apps.garmin.com/apps/365b1b30-f20f-4580-9c57-b7a01a467b06"
 
 title: Blue Beauty Earth Digital
 description: A digital watch face for Garmin watches, built around a photorealistic Earth.
